@@ -78,7 +78,8 @@ The full UI/UX design, with every screen, the navigation flow and the style guid
 │   ├── styles/
 │   └── assets/               # Characters, ghosts, items, icons, intro video
 └── docs/
-    └── cs526_milestone2_ui_ux_design.pdf
+    ├── cs526_milestone2_ui_ux_design.pdf
+    └── screenshots/
 ```
 
 ## ▶️ How to run
