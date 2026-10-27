@@ -21,6 +21,22 @@ A mobile horror-maze game built with **React Native (Expo)**. You are trapped in
 - **Elevator questions:** answer a riddle in the elevator to earn bonus coins on the way up.
 - **Progress:** coins, achievements, character skins, a player profile and stats are saved on the device.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/intro.jpg" width="48%" alt="Intro">
+  <img src="docs/screenshots/character-select.jpg" width="48%" alt="Choose your survivor">
+</p>
+<p align="center">
+  <img src="docs/screenshots/maze.jpg" width="48%" alt="Maze floor">
+  <img src="docs/screenshots/ghost-chase.jpg" width="48%" alt="Ghost chase">
+</p>
+<p align="center">
+  <img src="docs/screenshots/home.jpg" width="32%" alt="Home">
+  <img src="docs/screenshots/how-to-play.jpg" width="32%" alt="How to play">
+  <img src="docs/screenshots/escaped.jpg" width="32%" alt="Escaped">
+</p>
+
 ## 📱 Screens
 
 Intro video → Home (hub) → Profile & name setup → Character selection → Achievements → Settings → Rules → Floors (maze) → Elevator transition → Win / Defeat
