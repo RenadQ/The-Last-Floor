@@ -68,8 +68,8 @@ The full UI/UX design, with every screen, the navigation flow and the style guid
 ## ▶️ How to run
 
 ```bash
-git clone https://github.com/RenadQ/The-Last-Floor_game.git
-cd The-Last-Floor_game
+git clone https://github.com/RenadQ/The-Last-Floor.git
+cd The-Last-Floor
 npm install
 npx expo start
 ```
